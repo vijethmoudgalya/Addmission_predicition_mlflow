@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vijeth/Desktop/Mlflow/admission/mlruns/0/ad85fa4c260147d5831563117fa6e93e/artifacts
+end_time: 1631545937551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ad85fa4c260147d5831563117fa6e93e
+run_uuid: ad85fa4c260147d5831563117fa6e93e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1631545937524
+status: 4
+tags: []
+user_id: vijeth
